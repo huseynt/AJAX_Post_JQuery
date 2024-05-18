@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@apibrew/client": "^1.1.70",
     "json-server": "^1.0.0-beta.0"
   }
 }
